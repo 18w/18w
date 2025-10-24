@@ -6,7 +6,7 @@
 [![NuGet](https://img.shields.io/badge/NuGet-BuzzSpire-0052CC)](https://www.nuget.org/profiles/BuzzSpire)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Mert-orange)](https://stackoverflow.com/users/20962908/mert)
 
-Hi, I am [Mert Türkoğlu](https://github.com/tw4). 👋 I am an independent software developer and an open-source enthusiast. I specialize in creating innovative software solutions, contributing to open-source communities, and writing insightful blogs for developers. From crafting personalized tools to building large-scale integrations, I thrive on solving complex problems and sharing knowledge with the tech world.
+Hi, I am [Mert Türkoğlu](https://mertturkoglu.com/). 👋 I am an independent software developer and an open-source enthusiast. I specialize in creating innovative software solutions, contributing to open-source communities, and writing insightful blogs for developers. From crafting personalized tools to building large-scale integrations, I thrive on solving complex problems and sharing knowledge with the tech world.
 
 ## 🎤 Events Participation
 
