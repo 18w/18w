@@ -25,8 +25,8 @@ Hi, I am [Mert Türkoğlu](https://mertturkoglu.com/). 👋 I am an independent 
 
 ## 📫 Connect with Me
 
-- [GitHub](https://github.com/tw4)
-- [LinkedIn](https://www.linkedin.com/in/mert-t%C3%BCrko%C4%9Flu-583434267/)
+- [GitHub](https://github.com/18w)
+- [LinkedIn](https://www.linkedin.com/in/18w/)
 - [Website](https://www.mertturkoglu.com)
 - [NuGet](https://www.nuget.org/profiles/BuzzSpire)
 - [Stack Overflow](https://stackoverflow.com/users/20962908/mert)
