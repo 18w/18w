@@ -1,6 +1,5 @@
 # About Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-%40tw4-239a3b.svg)](https://github.com/tw4)
+[![GitHub](https://img.shields.io/badge/GitHub-18w-239a3b.svg)](https://github.com/18w)
 [![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/mert-t%C3%BCrko%C4%9Flu-583434267/)
 [![Website](https://img.shields.io/badge/Website-Mert%20T%C3%BCrko%C4%9Flu-blue)](https://www.mertturkoglu.com)
 [![NuGet](https://img.shields.io/badge/NuGet-BuzzSpire-0052CC)](https://www.nuget.org/profiles/BuzzSpire)
@@ -9,10 +8,8 @@
 Hi, I am [Mert Türkoğlu](https://mertturkoglu.com/). 👋 I am an independent software developer and an open-source enthusiast. I specialize in creating innovative software solutions, contributing to open-source communities, and writing insightful blogs for developers. From crafting personalized tools to building large-scale integrations, I thrive on solving complex problems and sharing knowledge with the tech world.
 
 ## 🎤 Events Participation
-
 #### 2024
 - [SMAX'24 Solution Day Istanbul](https://www.opentext.com/)
-
 #### 2023
 - [Hepsiburada JSKonf 2023](https://kommunity.com/istanbul-javascript-toplulugu/events/hepsiburada-jskonf-2023-240725dc)
 - [DevFest Edirne'23](https://gdg.community.dev/events/details/google-gdg-edirne-presents-devfest-edirne23/)
@@ -24,7 +21,6 @@ Hi, I am [Mert Türkoğlu](https://mertturkoglu.com/). 👋 I am an independent 
 - [Windows Domain Yapılarında Kullanıcı Yönetimi](https://www.mertturkoglu.com/blog/3)
 
 ## 📫 Connect with Me
-
 - [GitHub](https://github.com/18w)
 - [LinkedIn](https://www.linkedin.com/in/18w/)
 - [Website](https://www.mertturkoglu.com)
@@ -32,7 +28,5 @@ Hi, I am [Mert Türkoğlu](https://mertturkoglu.com/). 👋 I am an independent 
 - [Stack Overflow](https://stackoverflow.com/users/20962908/mert)
 
 ---
-
 "Independence in work is freedom, and learning is a limitless journey."  
 **Mert Türkoğlu**
-
